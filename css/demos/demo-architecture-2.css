@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6, .btn {
 }
 
 .custom-bg-grey-1 {
-		background: #747473 !important;
+		background: #ff89ca !important;
 }
 
 .custom-margin-top {
@@ -407,7 +407,7 @@ html.sticky-header-active #header .header-body {
 
 .custom-nav-grey.owl-carousel.nav-style-1 .owl-nav .owl-prev,
 .custom-nav-grey.owl-carousel.nav-style-1 .owl-nav .owl-next {
-		color: #aaaaaa !important;
+		color: #ff89ca !important;
 }
 
 /*
