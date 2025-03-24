@@ -407,7 +407,7 @@ html.sticky-header-active #header .header-body {
 
 .custom-nav-grey.owl-carousel.nav-style-1 .owl-nav .owl-prev,
 .custom-nav-grey.owl-carousel.nav-style-1 .owl-nav .owl-next {
-		color: #ff89ca !important;
+		color: #000000 !important;
 }
 
 /*
@@ -512,7 +512,7 @@ html.sticky-header-active #header .header-body {
 * Sort Navigation
 */
 .custom-nav-filter > li > a {
-		color: #212121 !important;
+		color: #000000 !important;
 		background: transparent !important;
 		border-radius: 0 !important;
 		padding: 0 4px;
@@ -522,7 +522,7 @@ html.sticky-header-active #header .header-body {
 }
 
 .custom-nav-filter > li.active > a {
-		border-bottom: 1px solid var(--grey-500) !important;
+		border-bottom: 1px solid var(--pink-500) !important;
 }
 
 .custom-nav-filter > li + li {
@@ -536,8 +536,8 @@ html.sticky-header-active #header .header-body {
 		height: calc(1.8em + 1.85rem + 2px);
 		padding: 15.6px 20px;
 		padding: 0.975rem 1.25rem;
-		background: var(--grey-100);
-		border-color: var(--grey-100);
+		background: var(--pink-100);
+		border-color: var(--pink-100);
 		line-height: 1.5 !important;
 }
 
@@ -558,7 +558,7 @@ html.sticky-header-active #header .header-body {
 }
 
 .custom-form-style-1 select {
-		color: #495057;
+		color: #000000;
 }
 
 .custom-form-style-1 select option {
@@ -577,11 +577,11 @@ html.sticky-header-active #header .header-body {
 * Footer
 */
 #footer p, #footer li, #footer span, #footer a:not(.btn):not(.no-footer-css) {
-		color: #999;
+		color: #ffffff;
 }
 
 #footer .footer-copyright p {
-		color: #999;
+		color: #ffffff;
 }
 
 /* Skin */

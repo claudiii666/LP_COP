@@ -17,8 +17,8 @@ html {
 }
 
 body {
-	background-color: var(--light);
-	color: var(--default);
+	background-color: black;
+	color: white;
 	font-family: "Poppins", Arial, sans-serif;
 	font-size: 14px;
 	line-height: 26px;
@@ -92,7 +92,7 @@ li {
 }
 
 #header .header-body.header-body-bottom-border-fixed {
-	border-bottom: 1px solid rgba(234, 234, 234, 0.5) !important;
+	border-bottom: 1px solid rgb(255, 255, 255) !important;
 }
 
 #header .header-body[class*="border-color-"] {
@@ -156,7 +156,7 @@ li {
 }
 
 #header .header-column.header-column-border-right {
-	border-right: 1px solid rgba(0, 0, 0, 0.06);
+	border-right: 1px solid rgb(255, 157, 219);
 }
 
 #header .header-column.header-column-border-left {
@@ -8800,7 +8800,7 @@ html[xmlns] .clearfix {
 
 /* Background - Skin */
 .bg-color-primary, .bg-primary {
-	background-color: var(--primary) !important;
+	background-color:  var(--primary) !important;
 }
 
 .bg-color-hover-primary:hover, .bg-hover-primary:hover {

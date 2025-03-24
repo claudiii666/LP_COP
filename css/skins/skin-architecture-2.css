@@ -1,28 +1,32 @@
+/* Font Family */
+body {
+	font-family: "Poppins", "Arial", sans-serif !important;
+}
 /* General */
 :root {
 	--border-radius: 4px;
 	--border-radius2x: 8px;
-	--default: #ff89ca;
+	--default: #777;
 }
 /* Skin Colors */
 :root {
-	--primary: #2a2a2a;
-	--primary-100: #ff89ca;
-	--primary-200: #ff89ca;
-	--primary-300: #ff89ca;
-	--primary--100: #ff89ca;
-	--primary--200: #ff89ca;
-	--primary--300: #ff89ca;
-	--primary-rgba-0: rgba(255, 107, 225, 0.993);
-	--primary-rgba-10: rgba(255, 107, 225, 0.993);
-	--primary-rgba-20: rgba(255, 107, 225, 0.993);
-	--primary-rgba-30: rgba(255, 107, 225, 0.993);
-	--primary-rgba-40: rgba(42, 42, 42, 0.4);
-	--primary-rgba-50: rgba(42, 42, 42, 0.5);
-	--primary-rgba-60: rgba(42, 42, 42, 0.6);
-	--primary-rgba-70: rgba(42, 42, 42, 0.7);
-	--primary-rgba-80: rgba(42, 42, 42, 0.8);
-	--primary-rgba-90: rgba(42, 42, 42, 0.9);
+	--primary: #ffa5dc;
+	--primary-100: #ff8bff;
+	--primary-200: #ff7fff;
+	--primary-300: #ff72ff;
+	--primary--100: #ffbfff;
+	--primary--200: #ffcbff;
+	--primary--300: #ffffff;
+	--primary-rgba-0: rgba(255, 165, 255, 0);
+	--primary-rgba-10: rgba(255, 165, 255, 0.1);
+	--primary-rgba-20: rgba(255, 165, 255, 0.2);
+	--primary-rgba-30: rgba(255, 165, 255, 0.3);
+	--primary-rgba-40: rgba(255, 165, 255, 0.4);
+	--primary-rgba-50: rgba(255, 165, 255, 0.5);
+	--primary-rgba-60: rgba(255, 165, 255, 0.6);
+	--primary-rgba-70: rgba(255, 165, 255, 0.7);
+	--primary-rgba-80: rgba(255, 165, 255, 0.8);
+	--primary-rgba-90: rgba(255, 165, 255, 0.9);
 	--secondary: #e36159;
 	--secondary-100: #df4c43;
 	--secondary-200: #dd4238;
@@ -40,7 +44,7 @@
 	--secondary-rgba-70: rgba(227, 97, 89, 0.7);
 	--secondary-rgba-80: rgba(227, 97, 89, 0.8);
 	--secondary-rgba-90: rgba(227, 97, 89, 0.9);
-	--tertiary: #2baab1;
+	--tertiary: #2BAAB1;
 	--tertiary-100: #26969c;
 	--tertiary-200: #248c92;
 	--tertiary-300: #218388;
@@ -111,7 +115,7 @@
 }
 /* Skin Colors - Inverse */
 :root {
-	--primary-inverse: #FFF;
+	--primary-inverse: #777;
 	--secondary-inverse: #FFF;
 	--tertiary-inverse: #FFF;
 	--quaternary-inverse: #FFF;
